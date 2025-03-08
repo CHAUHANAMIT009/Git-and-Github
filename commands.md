@@ -4,3 +4,4 @@
 
 #INMPORTANT
 -copy local changes to server using ssh.keygen
+- on local home ubuntu cd .ssh create a ssh.keygen 
